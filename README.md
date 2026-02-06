@@ -1,3 +1,4 @@
+# KmeansServer
 Lato server del progetto Kmeans. L'attività di clustering si articola in diversi passaggi:
 
   1. inizializzazione di x segmenti (insiemi vuoti)
